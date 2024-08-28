@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/Fabricio-Martins/fmrx95/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/fmrx95">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Martins&layout=compact&langs_count=7&theme=dracula"/>
