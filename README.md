@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/fmrx95/Fabricio-Martins/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/fmrx95">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Martins&layout=compact&langs_count=7&theme=dracula"/>
@@ -65,3 +65,4 @@ Além disso, estou aprofundando conhecimentos em desenvolvimento full stack, pro
 ⚡ Fato Interessante: No mundo dos robôs de trading, os algoritmos podem analisar milhares de dados em segundos e executar operações com precisão milimétrica, o que pode transformar estratégias de investimento e gerar insights que seriam impossíveis de identificar manualmente.
 
 Obrigado por visitar meu perfil. Vamos nos conectar e criar algo incrível juntos!
+![Snake animation](https://github.com/fmrx95/Fabricio-Martins/blob/output/github-contribution-grid-snake.svg)
